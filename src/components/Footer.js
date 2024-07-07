@@ -13,14 +13,12 @@ export default function Footer() {
             <p className="text-sm">Your one-stop shop for all kinds of items.</p>
           </div>
           {/* Footer Links */}
-          <div className="col-md-4 mb-4 md:mb-0 flex flex-col items-center">
+          <div className="col-md-4 mb-4 md:mb-0">
             <h5 className="font-bold text-lg mb-2">Quick Links</h5>
-            <ul className="list-none flex flex-col items-center">
-              <li className="mb-2"><Link to="/" className="text-sm text-gray-300 font-bold hover:text-white no-underline">Home</Link></li>
-              <li className="mb-2"><Link to="/our-shops" className="text-sm text-gray-300 font-bold hover:text-white no-underline">Our Shops</Link></li>
-              <li className="mb-2"><Link to="/products" className="text-sm text-gray-300 font-bold hover:text-white no-underline">Products</Link></li>
-              <li className="mb-2"><Link to="/contact-us" className="text-sm text-gray-300 font-bold hover:text-white no-underline">Contact Us</Link></li>
-            </ul>
+            <Link to="/" className="block text-sm text-gray-300 font-bold hover:text-white no-underline mb-2">Home</Link>
+            <Link to="/our-shops" className="block text-sm text-gray-300 font-bold hover:text-white no-underline mb-2">Our Shops</Link>
+            <Link to="/products" className="block text-sm text-gray-300 font-bold hover:text-white no-underline mb-2">Products</Link>
+            <Link to="/contact-us" className="block text-sm text-gray-300 font-bold hover:text-white no-underline">Contact Us</Link>
           </div>
           {/* Footer Social Icons */}
           <div className="col-md-4">
