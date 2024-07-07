@@ -23,7 +23,7 @@ export default function Footer() {
           {/* Footer Social Icons */}
           <div className="col-md-4">
             <h5 className="font-bold text-lg mb-2">Follow Us</h5>
-            <div className="flex justify-center md:justify-end space-x-4">
+            <div className="flex justify-center space-x-4">
               <Link to="/" className="text-gray-300 hover:text-white no-underline">
                 <FaFacebook size="1.5em" />
               </Link>
