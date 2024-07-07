@@ -1,0 +1,213 @@
+[
+    {
+      "id": 1,
+      "title": "Bhujia",
+      "price": "Rs. 50",
+      "category": "Food Items",
+      "image": "https://m.media-amazon.com/images/I/9166IHTX1WL.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Engineering Notebook",
+      "price": "Rs. 60",
+      "category": "Engineering Stationary",
+      "image": "https://images-cdn.ubuy.co.in/636d9ae5c207a43f8b287fc3-spiral-notebook-6-pcs-a5-craft.jpg"
+    },
+    {
+      "id": 3,
+      "title": "USB Cable",
+      "price": "Rs. 70",
+      "category": "Computer and Mobile Accessories",
+      "image": "https://www.portronics.com/cdn/shop/products/1_d03f2c9a-517f-42d5-9476-355739e4938f.jpg?v=1647866748"
+    },
+    {
+      "id": 4,
+      "title": "Arduino Board",
+      "price": "Rs. 80",
+      "category": "Engineering Electronics",
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/a7453044-f9f3-44e7-abbc-5999fba77395/a4d067f4-655f-4eda-acb6-502e74ccb442_2047581502.jpeg?h=960&w=960"
+    },
+    {
+      "id": 5,
+      "title": "Printer Paper",
+      "price": "Rs. 90",
+      "category": "Papers and Plastic Items",
+      "image": "https://images-cdn.ubuy.co.in/633b846e30ab6101ab742117-bocotous-size-a4-colored-printer-paper.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Lipstick",
+      "price": "Rs. 100",
+      "category": "Cosmetics and Deos",
+      "image": "https://www.allurecosmetics.in/cdn/shop/products/25edfe28904256018159-1.jpg?v=1677654844"
+    },
+    {
+      "id": 7,
+      "title": "Snacks",
+      "price": "Rs. 110",
+      "category": "Food Items",
+      "image": "https://m.media-amazon.com/images/I/9166IHTX1WL.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Football",
+      "price": "Rs. 120",
+      "category": "Sports Items",
+      "image": "https://media.istockphoto.com/id/610241662/photo/soccer-ball-isolated-on-the-white-background.jpg?s=612x612&w=0&k=20&c=f7EWJti8x_JFmDxA8CMJvi1ulMlPjTdDP69HBWy9Hb4="
+    },
+    {
+      "id": 9,
+      "title": "Calculator",
+      "price": "Rs. 130",
+      "category": "Engineering Electronics",
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/a7453044-f9f3-44e7-abbc-5999fba77395/a4d067f4-655f-4eda-acb6-502e74ccb442_2047581502.jpeg?h=960&w=960"
+    },
+    {
+      "id": 10,
+      "title": "Mouse",
+      "price": "Rs. 140",
+      "category": "Computer and Mobile Accessories",
+      "image": "https://www.portronics.com/cdn/shop/products/1_d03f2c9a-517f-42d5-9476-355739e4938f.jpg?v=1647866748"
+    },
+    {
+      "id": 11,
+      "title": "Product 11",
+      "price": "Rs. 150",
+      "category": "Engineering Stationary",
+      "image": "https://images-cdn.ubuy.co.in/636d9ae5c207a43f8b287fc3-spiral-notebook-6-pcs-a5-craft.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Product 12",
+      "price": "Rs. 160",
+      "category": "Computer and Mobile Accessories",
+      "image": "https://www.portronics.com/cdn/shop/products/1_d03f2c9a-517f-42d5-9476-355739e4938f.jpg?v=1647866748"
+    },
+    {
+      "id": 13,
+      "title": "Product 13",
+      "price": "Rs. 170",
+      "category": "Engineering Electronics",
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/a7453044-f9f3-44e7-abbc-5999fba77395/a4d067f4-655f-4eda-acb6-502e74ccb442_2047581502.jpeg?h=960&w=960"
+    },
+    {
+      "id": 14,
+      "title": "Product 14",
+      "price": "Rs. 180",
+      "category": "Papers and Plastic Items",
+      "image": "https://images-cdn.ubuy.co.in/633b846e30ab6101ab742117-bocotous-size-a4-colored-printer-paper.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Product 15",
+      "price": "Rs. 190",
+      "category": "Cosmetics and Deos",
+      "image": "https://www.allurecosmetics.in/cdn/shop/products/25edfe28904256018159-1.jpg?v=1677654844"
+    },
+    {
+      "id": 16,
+      "title": "Product 16",
+      "price": "Rs. 200",
+      "category": "Food Items",
+      "image": "https://m.media-amazon.com/images/I/9166IHTX1WL.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Product 17",
+      "price": "Rs. 210",
+      "category": "Sports Items",
+      "image": "https://media.istockphoto.com/id/610241662/photo/soccer-ball-isolated-on-the-white-background.jpg?s=612x612&w=0&k=20&c=f7EWJti8x_JFmDxA8CMJvi1ulMlPjTdDP69HBWy9Hb4="
+    },
+    {
+      "id": 18,
+      "title": "Product 18",
+      "price": "Rs. 220",
+      "category": "Engineering Electronics",
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/a7453044-f9f3-44e7-abbc-5999fba77395/a4d067f4-655f-4eda-acb6-502e74ccb442_2047581502.jpeg?h=960&w=960"
+    },
+    {
+      "id": 19,
+      "title": "Product 19",
+      "price": "Rs. 230",
+      "category": "Computer and Mobile Accessories",
+      "image": "https://www.portronics.com/cdn/shop/products/1_d03f2c9a-517f-42d5-9476-355739e4938f.jpg?v=1647866748"
+    },
+    {
+      "id": 20,
+      "title": "Product 20",
+      "price": "Rs. 240",
+      "category": "Engineering Stationary",
+      "image": "https://images-cdn.ubuy.co.in/636d9ae5c207a43f8b287fc3-spiral-notebook-6-pcs-a5-craft.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Product 21",
+      "price": "Rs. 250",
+      "category": "Papers and Plastic Items",
+      "image": "https://images-cdn.ubuy.co.in/633b846e30ab6101ab742117-bocotous-size-a4-colored-printer-paper.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Product 22",
+      "price": "Rs. 260",
+      "category": "Cosmetics and Deos",
+      "image": "https://www.allurecosmetics.in/cdn/shop/products/25edfe28904256018159-1.jpg?v=1677654844"
+    },
+    {
+      "id": 23,
+      "title": "Product 23",
+      "price": "Rs. 270",
+      "category": "Food Items",
+      "image": "https://m.media-amazon.com/images/I/9166IHTX1WL.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Product 24",
+      "price": "Rs. 280",
+      "category": "Sports Items",
+      "image": "https://media.istockphoto.com/id/610241662/photo/soccer-ball-isolated-on-the-white-background.jpg?s=612x612&w=0&k=20&c=f7EWJti8x_JFmDxA8CMJvi1ulMlPjTdDP69HBWy9Hb4="
+    },
+    {
+      "id": 25,
+      "title": "Product 25",
+      "price": "Rs. 290",
+      "category": "Engineering Electronics",
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/a7453044-f9f3-44e7-abbc-5999fba77395/a4d067f4-655f-4eda-acb6-502e74ccb442_2047581502.jpeg?h=960&w=960"
+    },
+    {
+      "id": 26,
+      "title": "Product 26",
+      "price": "Rs. 300",
+      "category": "Computer and Mobile Accessories",
+      "image": "https://www.portronics.com/cdn/shop/products/1_d03f2c9a-517f-42d5-9476-355739e4938f.jpg?v=1647866748"
+    },
+    {
+      "id": 27,
+      "title": "Product 27",
+      "price": "Rs. 310",
+      "category": "Engineering Stationary",
+      "image": "https://images-cdn.ubuy.co.in/636d9ae5c207a43f8b287fc3-spiral-notebook-6-pcs-a5-craft.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Product 28",
+      "price": "Rs. 320",
+      "category": "Papers and Plastic Items",
+      "image": "https://images-cdn.ubuy.co.in/633b846e30ab6101ab742117-bocotous-size-a4-colored-printer-paper.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Product 29",
+      "price": "Rs. 330",
+      "category": "Cosmetics and Deos",
+      "image": "https://www.allurecosmetics.in/cdn/shop/products/25edfe28904256018159-1.jpg?v=1677654844"
+    },
+    {
+      "id": 30,
+      "title": "Product 30",
+      "price": "Rs. 340",
+      "category": "Food Items",
+      "image": "https://m.media-amazon.com/images/I/9166IHTX1WL.jpg"
+    }
+  ]
+  
